@@ -29,7 +29,7 @@ ul.topnav{
     overflow: hidden;
     background-color: #00008B;
 }
-ul.topnav li {float : left;}
+ul.topnav li {float : right;}
 ul.topnav li a {
     display: inline-block;
     color: #ffffff;
